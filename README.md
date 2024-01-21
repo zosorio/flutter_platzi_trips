@@ -15,6 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![image](https://github.com/zosorio/flutter_platzi_trips/assets/99259427/0665b657-f237-4437-8519-052ff9774659)
+![image](https://github.com/zosorio/flutter_platzi_trips/assets/99259427/421c71c7-0075-4448-863d-14d9c7a08a9c)
+![image](https://github.com/zosorio/flutter_platzi_trips/assets/99259427/7d95ae57-e9dd-405b-9104-8d93ce968cc5)
+![image](https://github.com/zosorio/flutter_platzi_trips/assets/99259427/bcaf41ea-5359-4ea5-b0e0-078883d9ad00)
+
 ## Initialize project:
 ![img.png](img.png)
 
